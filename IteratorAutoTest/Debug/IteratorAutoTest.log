@@ -1,0 +1,10 @@
+﻿Build started 17/01/2016 16:37:40.
+     1>Project "D:\PublicProjects\Templates\IteratorAutoTest\IteratorAutoTest.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (IteratorAutoTest.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>Link:
+         IteratorAutoTest.vcxproj -> D:\PublicProjects\Templates\Debug\Templates.exe
+     1>Done Building Project "D:\PublicProjects\Templates\IteratorAutoTest\IteratorAutoTest.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.03
